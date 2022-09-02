@@ -1,0 +1,15 @@
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoFactorialMultiplos\CalculoFactorialMultiplos\bin\Debug\net6.0\CalculoFactorialMultiplos.exe
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoFactorialMultiplos\CalculoFactorialMultiplos\bin\Debug\net6.0\CalculoFactorialMultiplos.deps.json
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoFactorialMultiplos\CalculoFactorialMultiplos\bin\Debug\net6.0\CalculoFactorialMultiplos.runtimeconfig.json
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoFactorialMultiplos\CalculoFactorialMultiplos\bin\Debug\net6.0\CalculoFactorialMultiplos.dll
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoFactorialMultiplos\CalculoFactorialMultiplos\bin\Debug\net6.0\CalculoFactorialMultiplos.pdb
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoFactorialMultiplos\CalculoFactorialMultiplos\obj\Debug\net6.0\CalculoFactorialMultiplos.vbproj.AssemblyReference.cache
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoFactorialMultiplos\CalculoFactorialMultiplos\obj\Debug\net6.0\CalculoFactorialMultiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoFactorialMultiplos\CalculoFactorialMultiplos\obj\Debug\net6.0\CalculoFactorialMultiplos.AssemblyInfoInputs.cache
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoFactorialMultiplos\CalculoFactorialMultiplos\obj\Debug\net6.0\CalculoFactorialMultiplos.AssemblyInfo.vb
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoFactorialMultiplos\CalculoFactorialMultiplos\obj\Debug\net6.0\CalculoFactorialMultiplos.vbproj.CoreCompileInputs.cache
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoFactorialMultiplos\CalculoFactorialMultiplos\obj\Debug\net6.0\CalculoFactorialMultiplos.dll
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoFactorialMultiplos\CalculoFactorialMultiplos\obj\Debug\net6.0\refint\CalculoFactorialMultiplos.dll
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoFactorialMultiplos\CalculoFactorialMultiplos\obj\Debug\net6.0\CalculoFactorialMultiplos.pdb
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoFactorialMultiplos\CalculoFactorialMultiplos\obj\Debug\net6.0\CalculoFactorialMultiplos.genruntimeconfig.cache
+C:\Users\luisv\OneDrive\Escritorio\USAC\Progra 092\CalculoFactorialMultiplos\CalculoFactorialMultiplos\obj\Debug\net6.0\ref\CalculoFactorialMultiplos.dll
